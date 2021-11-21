@@ -1,0 +1,6 @@
+module Pods_hel3 {
+  umbrella header "Pods-hel3-umbrella.h"
+
+  export *
+  module * { export * }
+}
